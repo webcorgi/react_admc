@@ -1,5 +1,5 @@
 import 'css/App.css';
-import Home from 'pages/Home';
+import Customer from 'pages/Customer';
 import {
   Routes,
   Route,
@@ -7,6 +7,7 @@ import {
 } from 'react-router-dom';
 import ScrollTop from 'include/ScrollTop';
 import Wrapper from 'include/Wrapper';
+import AU001M04 from 'pages/AU001M04';
 
 function App() {
 
@@ -17,7 +18,8 @@ function App() {
       <Wrapper>
         <ScrollTop />
         <Routes>
-          <Route path="/" element={<Home />} exact />
+          <Route path="/" element={<Customer />} exact />
+          <Route path="/AU" element={<AU001M04 />} exact />
         </Routes>
       </Wrapper>
     </BrowserRouter>

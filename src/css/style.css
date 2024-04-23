@@ -138,6 +138,7 @@
 
 .tooth_image {margin:0 auto; background-repeat:no-repeat; background-position:center center;}
 .tooth_occlusal {width:79px; height:76px;}
+
 .tooth_occlusal.typeA {background-image:url(../images/occlusal_0.1.jpg)}
 .tooth_occlusal.typeB {background-image:url(../images/occlusal_0.08.jpg)}
 .tooth_occlusal.typeC {background-image:url(../images/occlusal_0.06.jpg)}
@@ -178,7 +179,7 @@
 
 .expend_area.active > .col-3 {width:100%;}
 .expend_area.active > .col-9 {display:none;}
-.expend_area .expend_btn {width:30px; height:100px; border:1px solid #ccc; position:absolute; right:-30px; top:35px; background:url(../images/../images/arrows-expand-vertical.svg) center center #fff no-repeat;}
+.expend_area .expend_btn {width:30px; height:100px; border:1px solid #ccc; position:absolute; right:-30px; top:35px; background:url(../images/arrows-expand-vertical.svg) center center #fff no-repeat;}
 .expend_area.active .expend_btn {background-image:url(../images/arrows-collapse-vertical.svg)}
 
 .file_list {padding:0; margin:0 0 10px 0;}
@@ -978,7 +979,7 @@
 .membership_upgrade_area .membership_upgrade_progress .membership_upgrade_box {width:calc(100% / 3); margin:0 15px;}
 .membership_upgrade_area .membership_upgrade_progress .membership_upgrade_box:first-child {margin:0 15px 0 30px;}
 .membership_upgrade_area .membership_upgrade_progress .membership_upgrade_box:last-child {margin:0 30px 0 15px;}
-.membership_upgrade_area .membership_upgrade_progress .membership_upgrade_box .membership_upgrade_item {margin:0; padding:0; display:flex; align-items: flex-end; justify-content:space-between; 0; padding:0; font-size:15px; font-weight:400; color:#222;}
+.membership_upgrade_area .membership_upgrade_progress .membership_upgrade_box .membership_upgrade_item {margin:0; padding:0; display:flex; align-items: flex-end; justify-content:space-between; padding:0; font-size:15px; font-weight:400; color:#222;}
 .membership_upgrade_area .membership_upgrade_progress .membership_upgrade_box .membership_upgrade_item span {font-size:13px; font-weight:400; color:#666;}
 .membership_upgrade_area .membership_upgrade_progress .membership_upgrade_box .membership_upgrade_item span em {font-size:13px; font-weight:500; color:#222; font-style:normal;}
 .membership_upgrade_area .membership_upgrade_progress .membership_upgrade_box .membership_upgrade_item span em strong {font-size:16px; font-weight:600; color:#222;}
@@ -994,7 +995,7 @@
 .member_badge.gold i {background-image:url(../images/ico_gold.png)}
 .member_badge.platinum {background-color:#D7EFF4; color:#0591AE;}
 .member_badge.platinum i {background-image:url(../images/ico_platinum.png)}
-.member_badge i {width:20px; height:20px; margin:0 4px 0 5px; background-position:0 0; background-repeat:no-repeat;)}
+.member_badge i {width:20px; height:20px; margin:0 4px 0 5px; background-position:0 0; background-repeat:no-repeat;}
 
 .product_lineup_area {margin-top:40px; padding-bottom:40px; border-bottom:1px solid #ddd;}
 .product_lineup_area .product_lineup_title {font-size:17px; font-weight:500; line-height:24.62px; color:#222;}
@@ -1323,7 +1324,7 @@
     .forum_title_input {margin-bottom:15px; border-top-width:3px;}
     .forum_title_input input {height:40px; font-size:18px;}
 
-    .btn_area .common-btn {width:136px; height:48px;}
+    /* .btn_area .common-btn {width:136px; height:48px;} */
     .btn_area .common-btn + .common-btn {margin-left:8px;}
 
     .breadcrumb_area {bottom:-40px;}
