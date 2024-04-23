@@ -13,7 +13,7 @@ function App() {
 
   return (
     <BrowserRouter
-    // basename='react_admc'
+      basename='react_admc'
     >
       <Wrapper>
         <ScrollTop />
