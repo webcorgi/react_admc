@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_admc/static/css/main.709b6f37.css",
-    "main.js": "/react_admc/static/js/main.07eed6fe.js",
+    "main.js": "/react_admc/static/js/main.25239ae4.js",
     "static/media/visual_customer.jpg": "/react_admc/static/media/visual_customer.e238db84b7c3e6d7cd3b.jpg",
     "static/media/guide_img.png": "/react_admc/static/media/guide_img.9e8cff6e51f8fc93a89a.png",
     "static/media/privacy_img.png": "/react_admc/static/media/privacy_img.63644f7f208df1ebd309.png",
@@ -19,10 +19,10 @@
     "static/media/arrows-collapse-vertical.svg": "/react_admc/static/media/arrows-collapse-vertical.82193015ac6424555aaf.svg",
     "static/media/icon_search_black.svg": "/react_admc/static/media/icon_search_black.06576b99dd1282b1f157.svg",
     "main.709b6f37.css.map": "/react_admc/static/css/main.709b6f37.css.map",
-    "main.07eed6fe.js.map": "/react_admc/static/js/main.07eed6fe.js.map"
+    "main.25239ae4.js.map": "/react_admc/static/js/main.25239ae4.js.map"
   },
   "entrypoints": [
     "static/css/main.709b6f37.css",
-    "static/js/main.07eed6fe.js"
+    "static/js/main.25239ae4.js"
   ]
 }
