@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react_admc/static/css/main.709b6f37.css",
+    "main.js": "/react_admc/static/js/main.84136c1c.js",
+    "static/media/visual_customer.jpg": "/react_admc/static/media/visual_customer.e238db84b7c3e6d7cd3b.jpg",
+    "static/media/guide_img.png": "/react_admc/static/media/guide_img.9e8cff6e51f8fc93a89a.png",
+    "static/media/privacy_img.png": "/react_admc/static/media/privacy_img.63644f7f208df1ebd309.png",
+    "static/media/customer_step2.jpg": "/react_admc/static/media/customer_step2.3e577e4eff0e62588665.jpg",
+    "static/media/amdc_intro.png": "/react_admc/static/media/amdc_intro.f64b8ad8cad4aaece80b.png",
+    "static/media/customer_step1.jpg": "/react_admc/static/media/customer_step1.87af7272ee151c5ed8ba.jpg",
+    "static/media/customer_step3.jpg": "/react_admc/static/media/customer_step3.0006902655d050bef328.jpg",
+    "static/media/visual_forum.jpg": "/react_admc/static/media/visual_forum.2a9b2856a3d7c1b25f33.jpg",
+    "static/media/visual_commission.jpg": "/react_admc/static/media/visual_commission.cdd1c6857b65eb61ada9.jpg",
+    "static/media/center_visial_img.jpg": "/react_admc/static/media/center_visial_img.868e6e3d66b4f4864a42.jpg",
+    "static/media/ico_zip.svg": "/react_admc/static/media/ico_zip.b40e3692760fde6c935f6f86a0e5383a.svg",
+    "static/media/ico_download.svg": "/react_admc/static/media/ico_download.31f989e5271274ca71b53bc917b10e67.svg",
+    "index.html": "/react_admc/index.html",
+    "static/media/arrows-expand-vertical.svg": "/react_admc/static/media/arrows-expand-vertical.fa16c880b0b3537f727b.svg",
+    "static/media/arrows-collapse-vertical.svg": "/react_admc/static/media/arrows-collapse-vertical.82193015ac6424555aaf.svg",
+    "static/media/icon_search_black.svg": "/react_admc/static/media/icon_search_black.06576b99dd1282b1f157.svg",
+    "main.709b6f37.css.map": "/react_admc/static/css/main.709b6f37.css.map",
+    "main.84136c1c.js.map": "/react_admc/static/js/main.84136c1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.709b6f37.css",
+    "static/js/main.84136c1c.js"
+  ]
+}
