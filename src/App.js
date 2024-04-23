@@ -19,7 +19,7 @@ function App() {
         <ScrollTop />
         <Routes>
           <Route path="/" element={<Customer />} exact />
-          <Route path="/AU" element={<AU001M04 />} exact />
+          <Route path="/au" element={<AU001M04 />} />
         </Routes>
       </Wrapper>
     </BrowserRouter>
